@@ -1,2 +1,2 @@
 # RoJuX
-Will be added as soon as we know what wea re doing..
+Will be added as soon as we know what we are doing..
